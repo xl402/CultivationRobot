@@ -1,5 +1,5 @@
 # CultivationRobot
-2nd year Integrated Design Project for an AGV which collects models of different plants.
+Winner of 2nd year Integrated Design Project: design an AGV which collects models of different plants.
 
 
 Team of 7, split into electrical, mechanical and software subteams, with a time constraint of **4 weeks** to produce a guided vehicle that suits the design specifications. Full detailes can be found on the university website:
